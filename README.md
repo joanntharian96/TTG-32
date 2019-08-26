@@ -1,2 +1,6 @@
 # TTG-32
-Joann
+MSIS
+tsteinberg28
+rogerbowen
+janntharian96
+shbhatna
